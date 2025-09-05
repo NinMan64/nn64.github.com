@@ -1,8 +1,8 @@
-Origin: Qmole Linux
-Label: QMole Linux
+Origin: NinMan64 Productions
+Label: NinMan64 Cydia Repo
 Suite: stable
 Version: 1.0
-Codename: QMole
+Codename: nm64repo
 Architectures: iphoneos-arm
 Components: main
-Description: Qmole Linux
+Description: NinMan64 Official Repository
